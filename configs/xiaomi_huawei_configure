@@ -1,0 +1,11 @@
+data/workspace/xiaomi_huawei/
+data/xiaomi/xiaomi.nt
+data/huawei/huawei.nt
+0.97
+3
+0.1
+0.93
+0
+1
+data/seeds/xiaomi_huawei_sameas.txt
+data/synonyms/xiaomi.nt data/synonyms/huawei.nt

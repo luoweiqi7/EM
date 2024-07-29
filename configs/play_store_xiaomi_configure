@@ -1,0 +1,11 @@
+data/workspace/play_store_xiaomi/
+data/play_store/play_store.nt
+data/xiaomi/xiaomi.nt
+0.97
+3
+0.1
+0.97
+0
+1
+data/seeds/play_store_xiaomi_sameas.txt
+data/synonyms/play_store.nt data/synonyms/xiaomi.nt

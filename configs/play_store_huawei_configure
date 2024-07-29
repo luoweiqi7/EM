@@ -1,0 +1,11 @@
+data/workspace/play_store_huawei/
+data/play_store/play_store.nt
+data/huawei/huawei.nt
+0.97
+3
+0.1
+0.97
+0
+1
+data/seeds/play_store_huawei_sameas.txt
+data/synonyms/play_store.nt data/synonyms/huawei.nt
